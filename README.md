@@ -7,7 +7,7 @@
 
 ## Technologies
 
-- Built out interface using React, TypeScript, and Google’s Material UI.
+- Built the interface using React, TypeScript, and Google’s Material UI.
 - Uses firebase for user authentication, saving recipes & user information
 - Utilizes open source drinks API
 - Hosted by Firebase Hosting
